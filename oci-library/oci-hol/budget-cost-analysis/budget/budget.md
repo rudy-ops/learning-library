@@ -1,8 +1,8 @@
-# Budget Creation
+f# Budget Creation
 
 ## Introduction
 
-Budget: You can use budgets to set soft limits on your Oracle Cloud Infrastructure spending, and you can also set alerts on your budget too, to let you know when you might exceed your budget. You can view all your budgets and your current spending from a single place in OCI console. So, let’s get started
+Budget: You can use budgets to set soft limits on your Oracle Cloud Infrastructure spending, and you can also set alerts on your budget too, to let you know when you might exceed your budget. You can view all your budgets and your current spending from a single place in OCI console. So, let’s get started.
 
 Estimated Lab Time: 30 minutes
 
@@ -11,7 +11,7 @@ Estimated Lab Time: 30 minutes
 * An Oracle Free Tier, Always Free, Paid or LiveLabs Cloud Account
 
 ## Task 1: Navigate Budget
-1. Open the navigation menu. Under **Governance and Administration**, go to **Account Management** and click **Budgets**.
+1. Open the navigation menu. Under ** Cost Management** and click **Budgets**.
 
 2. All the billing and cost management related option are available under account management part of the Oracle Cloud Infrastructure console.
   ![](./images/budget.png " ")
